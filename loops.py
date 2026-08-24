@@ -16,7 +16,7 @@
 #     count+=i
 # print(count)
     
-num=int(input())
+# num=int(input())
 # fac=1
 # for i in range(num,0,-1):
 #      fac=fac*i
@@ -42,10 +42,13 @@ num=int(input())
 # for i in range(num , 0,-1):
 #     print(i)
 
-for i in range(len(num)):
-       r=num%10
-       q=num//10
-
+# reverse=0
+# while num > 0:
+#          r=num%10
+#          reverse=reverse*10+r
+#          num=num//10
+     
+# print(reverse)
 
 
 # munbers=list(map(int,input().split( )))
@@ -54,3 +57,7 @@ for i in range(len(num)):
 #      if munbers[i] > max:
 #         max=munbers[i]
 # print(max)        
+
+
+        
+    
