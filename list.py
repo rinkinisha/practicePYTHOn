@@ -1,4 +1,4 @@
-marks = list(map(int,input().split()))
+# marks = list(map(int,input().split()))
 # higest=marks[0]
 # for i in range(len(marks)):
 #     if marks[i]>higest:
@@ -35,5 +35,25 @@ marks = list(map(int,input().split()))
 # print(newArr)
 # print(count)
 
+# for i in range(len(marks)):
+#      marks.sort(reverse=True)
 
+# print(marks[1])
+
+# largest=-1
+# second_lar=-1
+# for i in range(len(marks)):
+#     if marks[i]>largest:
+#         second_lar=largest
+#         largest=marks[i]
+# print(second_lar)        
+
+lists={}
+marks = list(map(int,input().split()))
+marks.append(lists)
+
+
+# import json
+# students=json.loads(input())
+# print(students)
 
