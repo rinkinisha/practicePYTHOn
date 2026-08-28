@@ -48,9 +48,32 @@
 #         largest=marks[i]
 # print(second_lar)        
 
-lists={}
-marks = list(map(int,input().split()))
-marks.append(lists)
+# Add data
+# Update data
+# Delete data
+# Loop through dictionary
+# Nested dictionaries
+# List of dictionaries
+
+# students=[]
+# n=int(input())
+# for i in range(n):
+#     name,marks=input().split()
+#     student={}
+#     student["name"]=name
+#     student["marks"]=int(marks)
+#     students.append(student)
+# print(students)
+
+
+# students={}
+# name =input()
+# age=int(input())
+# students["name"]=name
+# students["age"]=age
+# print(students)
+
+
 
 
 # import json
