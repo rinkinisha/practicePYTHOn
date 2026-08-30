@@ -66,12 +66,13 @@
 # print(students)
 
 
-# students={}
-# name =input()
-# age=int(input())
-# students["name"]=name
-# students["age"]=age
-# print(students)
+
+students={}
+name =input()
+age=int(input())
+students["name"]=name
+students["age"]=age
+print(students)
 
 
 
@@ -79,4 +80,6 @@
 # import json
 # students=json.loads(input())
 # print(students)
+
+
 
